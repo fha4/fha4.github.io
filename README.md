@@ -22,4 +22,4 @@ Type `nano` into the command prompt
 ___
 
 
-- [About this Website](https://fha4.github.io//about)
+- [About this Website](https://fha4.github.io/about)
