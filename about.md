@@ -1,2 +1,2 @@
-# this is a website containing frank's cool stuff
-what
+# About
+This is a website containing Frank's cool stuff.
