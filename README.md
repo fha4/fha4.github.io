@@ -1,4 +1,3 @@
+[About this Website](https://fha4.github.io/about)
 
-
-- [About this Website](https://fha4.github.io/about)
-- [Markdown Reference](https://fha4.github.io/ref)
+[Markdown Reference](https://fha4.github.io/ref)
