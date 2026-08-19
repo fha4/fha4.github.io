@@ -24,3 +24,4 @@ Type `nano` into the command prompt
 
 
 ___
+- this is a bullet point
