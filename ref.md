@@ -29,3 +29,8 @@ ___
 [MSN](http://search.msn.com/ "MSN Search").
 
 https://daringfireball.net/projects/markdown/
+
+I start my morning with a cup of coffee and
+[The New York Times][NY Times].
+
+[ny times]: http://www.nytimes.com/
