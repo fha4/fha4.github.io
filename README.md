@@ -19,3 +19,6 @@ Type `nano` into the command prompt
 
 
 ___
+
+
+- [About the Project](#about-the-project)
