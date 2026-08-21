@@ -28,7 +28,6 @@ ___
 
 [MSN](http://search.msn.com/ "MSN Search").
 
-https://daringfireball.net/projects/markdown/
 
 I start my morning with a cup of coffee and
 [The New York Times][NY Times].
@@ -36,3 +35,8 @@ I start my morning with a cup of coffee and
 [ny times]: http://www.nytimes.com/
 
 ![Description of the image](assets/images/IMG_3910.JPG)
+
+
+https://daringfireball.net/projects/markdown/
+https://docs.github.com/en/pages
+https://jekyllrb.com/
