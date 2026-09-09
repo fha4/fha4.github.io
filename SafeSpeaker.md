@@ -31,7 +31,16 @@ SafeSpeaker injects digital audio data on to the audio bus, which the main proce
 To interface with the Alexa and obfuscate audio, SafeSpeaker uses an [STM32G431KB MCU](https://www.st.com/en/evaluation-tools/nucleo-g431kb). To record audio, SafeSpeaker uses a [SPH0645LM4H-B I2S Microphone on a breakout-board from Adafruit](https://cdn-shop.adafruit.com/product-files/3421/i2S+Datasheet.PDF).
 
 
+alexa-board interface: SAI peripheral, DMA, 4-byte word, shenanigans
+
+
+mic-board interface: I2S peripheral
+
 ## Firmware and Configurations
 
 ## Tools
 oscilloscope, cubeMX, cubeIDE, logic analyzer, microscope, minicom, python, 
+
+ping-pong buffer
+
+LOOK THROUGH PHOTOS ON PHONE
