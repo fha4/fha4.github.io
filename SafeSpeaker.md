@@ -44,3 +44,6 @@ oscilloscope, cubeMX, cubeIDE, logic analyzer, microscope, minicom, python,
 ping-pong buffer
 
 LOOK THROUGH PHOTOS ON PHONE
+
+
+I worked on SafeSpeaker, where I interfaced a microcontroller to the audio bus of an Amazon Echo. I used a logic analyzer to record the Alexa's I2C commands, which told me how the Alexa's ADCs were configured. I configured a microcontroller to transmit audio data in the same manner, and connected the microcontroller to the Alexa. Additionally, I connected the microcontroller to a I2S MEMS microphone, and streamed the audio from the microphone to the Alexa. I also configured the microcontroller to change its audio-processing mode based an external button, as well as playback it's processed audio to a set of headphones. I also had to tweak the audio-processing program loaded onto the microcontroller such that it mitigates digital filter overflow/wrap-around issues and requires a smaller amount of memory. I also helped design and build a 3D-printed enclosure for SafeSpeaker.
