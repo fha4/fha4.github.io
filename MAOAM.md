@@ -8,8 +8,10 @@ This project is named after the candy brand MAOAM and their yummy "[Kracher](htt
 ## Program Architecture
 MAOAM is built using the [Selenium Python Package](https://www.selenium.dev/).
 
-## User Setup
+## User Guide
 The program can be retrieved via `wget https://fha4.github.io/assets/python/mostly_automated_ordering_of_amazing_meals.py`.
+
+Program usage: `python3 mostly_automated_ordering_of_amazing_meals.py`
 
 ## Limitations
 - only orders breakfast at bursley lol, also has my allergies and nothing else
