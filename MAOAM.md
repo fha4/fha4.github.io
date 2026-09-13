@@ -1,12 +1,16 @@
 # MAOAM: Mostly Automated Ordering of Amazing Meals
 
 ## Overview
-MAOAM's job is to reduced the effort required to order a meal at a UofM dining hall.
+MAOAM's job is to reduce the effort required to order a meal at a UofM dining hall.
 
 This project is named after the candy brand MAOAM and their yummy "[Kracher](https://www.haribo.com/de-de/produkte/maoam/kracher)" candy.
 
 ## Program Architecture
-MAOAM is built using the [Selenium Python Package](https://www.selenium.dev/).
+MAOAM is built using the [Selenium Python Package](https://www.selenium.dev/). Selenium effectively lets a program click around on a website in the same manner that a human user can. This lets MAOAM interact with M-Dining's websites, despite their lack of APIs.
+
+scrape items
+
+fill out form
 
 ## User Guide
 The program can be retrieved via `wget https://fha4.github.io/assets/python/mostly_automated_ordering_of_amazing_meals.py`.
