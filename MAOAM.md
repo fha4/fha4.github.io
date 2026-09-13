@@ -1,7 +1,7 @@
 # MAOAM: MAOAM Automates Ordering of Amazing Meals
 
 ## Overview
-MAOAM's reduces the effort required to order a meal at a UofM dining hall.
+MAOAM reduces the effort required to order a meal at a UofM dining hall.
 
 This project is named after the candy brand MAOAM and their yummy "[Kracher](https://www.haribo.com/de-de/produkte/maoam/kracher)" candy.
 
