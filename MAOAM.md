@@ -21,8 +21,9 @@ Modify MAOAM.py: Replace `service = Service(executable_path='/home/fha/bin/chrom
 
 ## Usage
 
-In a terminal, run `python3 MAOAM.py`.
+In a terminal, run `python3 MAOAM.py`. Interact with the terminal via the terminal and via the pop-up window. Follow the prompts from the terminal.
 
+// old
 Via the terminal, enter the date on which you would like to pick up your food.
 
 Respond yes or no to each food the program presents you with via the terminal.
@@ -32,6 +33,7 @@ Complete Okta Verify. When complete, inform the program that you have done so.
 When the program has filled out the meal-ordering form, use the chrome window to enter the time for your meal.
 
 Let the program know you are ready to submit via the terminal.
+// old
 
 TODO: add photos
 
