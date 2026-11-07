@@ -15,7 +15,7 @@ Retrieve MAOAM via `git clone git@github.com:fha4/MAOAM.git`.
 
 Rename `starter_my_configs.py` to `my_configs.py`. Fill in the relevant information.
 
-Download the [chromedriver binary](https://googlechromelabs.github.io/chrome-for-testing/). Place it in `/home/[your_username]/bin/chromedriver`. 
+Download the [chromedriver binary](https://googlechromelabs.github.io/chrome-for-testing/). Place it at `/home/[your_username]/bin/chromedriver`. 
 
 Modify MAOAM.py: Replace `service = Service(executable_path='/home/fha/bin/chromedriver')` with `service = Service(executable_path='/home/[your_username]/bin/chromedriver')`.
 
